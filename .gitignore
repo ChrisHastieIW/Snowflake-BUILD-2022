@@ -1,0 +1,4 @@
+snowsql*
+__pycache__*
+.venv
+*snowflake_connection_parameters.json
