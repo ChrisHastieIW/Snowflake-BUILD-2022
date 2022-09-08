@@ -1,2 +1,4 @@
 snowflake-snowpark-python[pandas]
 pmdarima
+matplotlib
+seaborn
