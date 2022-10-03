@@ -5,8 +5,8 @@ Supporting code for the Snowflake BUILD 2022 session "How to build ML Models in 
 
 ## Contributors
 
-- Sonny Rivera
-- Chris Hastie
+- [Sonny Rivera](https://www.linkedin.com/in/sonnyrivera/)
+- [Chris Hastie](https://www.linkedin.com/in/chris-hastie/)
 
 ## Snowflake Python Functionality and Setup
 
